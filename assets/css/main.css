@@ -1,0 +1,262 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar .navbar-brand {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+#page-done {
+  background-color: #296969;
+  padding: 100px;
+}
+
+#page-done .center {
+  text-align: center;
+}
+
+#page-done .center h1 {
+  font-size: 80px;
+  font-weight: 500;
+  color: white;
+}
+
+#page-done .center p {
+  font-size: 50px;
+  font-weight: 400;
+  color: white;
+}
+
+#page-done .center span {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+}
+
+#page-done .center button {
+  background-color: #8b0404;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+
+#page-done .center .padding {
+  padding: 20px 0px;
+}
+
+#our-services {
+  padding: 100px;
+}
+
+#our-services h1 {
+  color: #296969;
+}
+
+#our-services h2 {
+  opacity: 0.9;
+  padding: 20px 0;
+}
+
+#our-services p {
+  opacity: 0.9;
+  padding: 10px 0;
+}
+
+#our-services .center {
+  text-align: center;
+}
+
+#our-services .center .padding {
+  padding: 20px;
+}
+
+#our-services .center .padding .test {
+  background-color: #3c9696;
+  padding-bottom: 50px;
+}
+
+#our-services .center .padding .test i {
+  font-size: 80px;
+  color: white;
+  padding: 70px;
+}
+
+#our-services .center .padding .test h4 {
+  font-weight: 600;
+  color: white;
+}
+
+#our-services .center .padding .test p {
+  color: white;
+}
+
+#our-services .center .padding .test span {
+  color: white;
+}
+
+#our-services .lorem {
+  padding: 30px 0;
+}
+
+#our-services .lorem h5 {
+  font-size: 15px;
+  opacity: 0.8;
+}
+
+#numbers {
+  background-color: #296969;
+  padding: 20px;
+}
+
+#numbers .center {
+  text-align: center;
+}
+
+#numbers .center #wallStreet {
+  font-size: 60px;
+  color: white;
+  padding: 35px 0;
+}
+
+#numbers .center h1 {
+  font-size: 50px;
+  color: white;
+  padding: 35px 0;
+}
+
+#numbers .center h2 {
+  font-size: 30px;
+  color: white;
+  padding: 0 50px;
+}
+
+#our-plans {
+  padding: 90px;
+}
+
+#our-plans h1 {
+  color: #296969;
+}
+
+#our-plans h2 {
+  opacity: 0.9;
+  padding: 20px 0;
+}
+
+#our-plans p {
+  opacity: 0.9;
+  padding: 10px 0;
+}
+
+#our-plans .center {
+  text-align: center;
+}
+
+#our-plans .center .test {
+  background-color: #e4d5d5;
+  padding: 30px 0;
+}
+
+#our-plans .center .test h1 {
+  background-color: black;
+  color: white;
+  font-size: 26px;
+  padding: 5px 0;
+}
+
+#our-plans .center .test p {
+  opacity: 0.8;
+  padding: 14px 0;
+  font-size: 20px;
+}
+
+#our-plans .center .test p span {
+  color: black;
+  opacity: 0.9;
+  font-weight: 500;
+}
+
+#our-plans .center .test h3 {
+  background-color: #3c633c;
+  padding: 20px 70px;
+}
+
+#our-plans .center .test button {
+  border: none;
+  color: white;
+  width: 100%;
+  font-size: 25px;
+}
+
+#our-plans .center .test #red {
+  background-color: red;
+}
+
+#our-plans .center .test #blue {
+  background-color: blue;
+}
+
+#our-plans .center .test #green {
+  background-color: green;
+}
+
+#contact {
+  padding: 100px;
+}
+
+#contact h1 {
+  color: #296969;
+}
+
+#contact h2 {
+  opacity: 0.9;
+  padding: 20px 0;
+}
+
+#contact p {
+  opacity: 0.9;
+}
+
+#contact .form .large-form input {
+  margin-top: 20px;
+  height: 100px;
+}
+
+#contact .form p {
+  opacity: 0.8;
+}
+
+#contact .form p span {
+  font-weight: 700;
+}
+
+#contact .form button {
+  border: none;
+  background-color: #185a74;
+  color: white;
+  padding: 10px 5px;
+  margin-top: 20px;
+  border-radius: 5%;
+}
+
+footer {
+  background-color: black;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+footer .footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  color: white;
+  right: 5%;
+  position: relative;
+}

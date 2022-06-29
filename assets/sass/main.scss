@@ -1,0 +1,218 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+ .navbar-brand{
+     font-size: 30px;
+     font-weight: 500;
+ }
+ }
+
+ #page-done{
+     background-color: rgb(41, 105, 105);
+     padding: 100px;
+     .center{
+         text-align:center;
+     
+     h1{
+        font-size: 80px;
+        font-weight: 500;
+        color: white;
+     }
+     p{
+         font-size: 50px;
+        font-weight: 400;
+        color: white;
+     }
+      span{
+        font-size: 20px;
+        font-weight: 400;
+        color: white;
+     }
+     button{
+         background-color: rgb(139, 4, 4);
+         color: white;
+         border: none;
+         padding: 10px;
+     }
+ .padding{
+     padding: 20px 0px;
+ }
+    }
+}
+#our-services{
+     padding: 100px;
+      h1{
+       color: rgb(41, 105, 105);
+    }
+    h2{
+        opacity: 0.9;
+        padding: 20px 0;
+    }
+    p{
+         opacity: 0.9;
+        padding: 10px 0;
+    }
+    .center{
+         text-align:center;
+         .padding{
+            padding: 20px  ;
+         .test{
+            background-color: rgb(60, 150, 150);
+            padding-bottom: 50px;
+            i{
+                font-size: 80px;
+                color: white;
+                padding: 70px ;
+            }
+            h4{
+                    font-weight: 600; 
+                     color: white;
+            }
+            p{
+                 color: white;
+            }
+            span{
+                     color: white;
+                     
+            }
+         }
+        }
+    }
+    .lorem{
+        padding: 30px 0;
+      h5{
+          font-size: 15px;
+          opacity: 0.8;
+      }
+    }
+}
+#numbers{
+     background-color: rgb(41, 105, 105);
+     padding: 20px;
+.center{
+     text-align:center;
+     #wallStreet{
+         font-size: 60px;
+         color: white;
+         padding: 35px 0;
+     }
+     h1{
+         font-size: 50px;
+         color: white;
+         padding: 35px 0;
+     }
+     h2{
+         font-size: 30px;
+         color: white;
+         padding: 0 50px;
+     }
+    }
+}
+#our-plans{
+    padding: 90px;
+    h1{
+       color: rgb(41, 105, 105);
+    }
+    h2{
+        opacity: 0.9;
+        padding: 20px 0;
+    }
+    p{
+         opacity: 0.9;
+        padding: 10px 0;
+    }
+.center{
+     text-align:center;
+     .test{
+         background-color: rgb(228, 213, 213);
+         padding: 30px 0;
+     h1{
+         background-color: black;
+         color: white;
+         font-size: 26px;
+         padding:  5px 0;
+     }
+     p{
+         opacity: 0.8;
+         padding: 14px 0;
+         font-size: 20px;
+span{
+    color: black;
+    opacity: 0.9;
+         font-weight: 500;
+
+
+}
+     }
+     h3{
+         background-color: rgb(60, 99, 60);
+             padding: 20px 70px;
+     }
+     button{
+         border: none;
+         color: white;
+         width: 100%;
+         font-size: 25px;
+     }
+     #red{
+         background-color: red;
+     }
+      #blue{
+         background-color: blue;
+     }
+      #green{
+         background-color: green;
+     }
+}
+}
+}
+#contact{
+     padding: 100px;
+      h1{
+       color: rgb(41, 105, 105);
+    }
+    h2{
+        opacity: 0.9;
+        padding: 20px 0;
+    }
+    p{
+         opacity: 0.9;
+    }
+    .form{
+        .large-form{
+            input{
+         margin-top: 20px;
+         height: 100px;
+        }
+    }
+        p{
+            opacity: 0.8;
+            span{
+        font-weight: 700;
+            }
+        }
+        button{
+            border: none;
+            background-color: rgb(24, 90, 116);
+            color: white;
+            padding: 10px 5px;
+            margin-top: 20px;
+            border-radius: 5%;
+        }
+    }
+}
+footer{
+    background-color: black;
+    margin-bottom: 30px;
+    padding: 20px;
+    .footer{
+        display: flex;
+        justify-content: end;
+        color: white;
+        right: 5%;
+        position: relative;
+    }
+}
